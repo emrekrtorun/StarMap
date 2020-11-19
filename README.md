@@ -1,1 +1,1 @@
-This is a git repo for StarMap project
+Git repo for StarMap project
